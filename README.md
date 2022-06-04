@@ -7,3 +7,6 @@ Bruteforce_convex_hull.c : bruteforce 한 방식으로 convex_hull 문제를 해
 
 ### Assignment_2
 Efficient_convex_hull.c : divide-and-conquer 한 방식으로 convex_hull 문제를 해결하는 코드
+
+### Assignment_3
+pwgc.c : transform-and-conquer 방식으로 river-cross 문제를 해결하는 코드 (DFS 활용)
